@@ -1,0 +1,5 @@
+rootProject.name = 'fast'
+include 'fast-core'
+include 'fast-common'
+include 'fast-system'
+
